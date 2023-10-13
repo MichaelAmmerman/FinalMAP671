@@ -1,0 +1,105 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.32.2-Lima">
+  <identifier>bathy_pX</identifier>
+  <parentidentifier></parentidentifier>
+  <language>ENG</language>
+  <type>dataset</type>
+  <title>North American Atlas - Bathymetry (Polygons)</title>
+  <abstract>This polygon shapefile contains bathymetric data with depth in metres for ocean areas covered by the extent of the North American Atlas project. Isobaths (lines of equal depth) are provided for sea level (coastline, with depth = 1), 200, 500, and 2500 metres. Polygons bounded by these isobaths represent depth ranges of 0-200, 200-500, 500-2500, and greater than 2500 metres. This layer is part of the 1997-2014 edition National Atlas of the United States.
+
+The North American Atlas data are intended for geographic display and analysis at the national and continental level. These data should be displayed and analyzed at scales appropriate for 1:10,000,000-scale data. No responsibility is assumed by Natural Resources Canada, Instituto Nacional de Estad stica Geograf a e Inform tica, or the U.S. Geological Survey in the use of these data.
+
+A joint venture involving the National Atlas programs in Canada (Natural Resources Canada), Mexico (Instituto Nacional de Estad stica Geograf a e Inform tica), and the United States (U.S. Geological Survey), as well as the North American Commission for Environmental Co-operation, has led to the release (June 2004) of several new products: an updated paper map of North America, and its associated geospatial data sets and their metadata. These data sets are available online from each of the partner countries both for visualization and download. The North American Atlas data are standardized geospatial data sets at 1:10,000,000 scale. A variety of basic data layers (e.g. roads, railroads, populated places, political boundaries, hydrography, bathymetry, sea ice and glaciers) have been integrated so that their relative positions are correct. This collection of data sets forms a base with which other North American thematic data may be integrated. Any data outside of Canada, Mexico, and the United States of America included in the North American Atlas data sets is strictly to complete the context of the data. The North American Atlas - Bathymetry data set shows the depth in metres for ocean areas covered by the extent of the North American Atlas project. Isobaths (lines of equal depth) are provided for sea level (coastline, with depth = 1), 200, 500, and 2500 metres. Polygons bounded by these isobaths represent depth ranges of 0-200, 200-500, 500-2500, and greater than 2500 metres.
+
+The North American Atlas data are intended for geographic display and analysis at the national and continental level. These data should be displayed and analyzed at scales appropriate for 1:10,000,000-scale data. No responsibility is assumed by Natural Resources Canada, Instituto Nacional de Estad stica Geograf a e Inform tica, or the U.S. Geological Survey in the use of these data.
+
+The Commission for Environmental Cooperation (CEC) is an international organization created by Canada, Mexico, and the United States of America under the North American Agreement on Environmental Cooperation (NAAEC). The CEC was established to address regional environmental concerns, help prevent potential trade and environmental conflicts, and to promote the effective enforcement of environmental law. The Agreement complements the environmental provisions of the North American Free Trade Agreement (NAFTA). Further information on the CEC is available from http://www.cec.org/ or from >Commission for Environmental Cooperation >393, rue St-Jacques Ouest >Bureau 200 >Montr al (Qu bec) >H2Y 1N9 Canada > >Telephone: 514 350 4300 >Facsimile: 514 350 4314 >Electronic mail: info@ccemtl.org > All North American Atlas data sets are available in four data formats: Arc/INFO Export format (e00), ArcView Shapefile, Geography Markup Language (GML) and Spatial Data Transfer Standard (SDTS). Although these data are distributed in geographic coordinates, the North American Atlas Map uses a Lambert Azimuthal Equal Area projection. The following parameters were used for the map: >Longitude_of_Projection_Center: -100.00 >Latitude_of_Projection_Center: 45.00 >False_Easting (metres): 0.0 >False_Northing (metres): 0.0 >Semi-major_Axis: 6370997.0 >Denominator_of_Flattening_Ratio: 1.0 >Ellipsoid_Name: Sphere >Units: metres 
+
+The Commission for Environmental Cooperation (CEC) is an international organization created by Canada, Mexico, and the United States of America under the North American Agreement on Environmental Cooperation (NAAEC). The CEC was established to address regional environmental concerns, help prevent potential trade and environmental conflicts, and to promote the effective enforcement of environmental law. The Agreement complements the environmental provisions of the North American Free Trade Agreement (NAFTA). Further information on the CEC is available from http://www.cec.org/ or from >Commission for Environmental Cooperation >393, rue St-Jacques Ouest >Bureau 200 >Montr al (Qu bec) >H2Y 1N9 Canada > >Telephone: 514 350 4300 >Facsimile: 514 350 4314 >Electronic mail: info@ccemtl.org > All North American Atlas data sets are available in four data formats: Arc/INFO Export format (e00), ArcView Shapefile, Geography Markup Language (GML) and Spatial Data Transfer Standard (SDTS). Although these data are distributed in geographic coordinates, the North American Atlas Map uses a Lambert Azimuthal Equal Area projection. The following parameters were used for the map: >Longitude_of_Projection_Center: -100.00 >Latitude_of_Projection_Center: 45.00 >False_Easting (metres): 0.0 >False_Northing (metres): 0.0 >Semi-major_Axis: 6370997.0 >Denominator_of_Flattening_Ratio: 1.0 >Ellipsoid_Name: Sphere >Units: metres</abstract>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>Bathymetric maps</keyword>
+    <keyword>Contours (Cartography)</keyword>
+    <keyword>Bathymetric maps</keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type>postal</type>
+      <address>Fracc Jardines del Parque</address>
+      <city>Aguascalientes</city>
+      <administrativearea>Aguascalientes</administrativearea>
+      <postalcode>20270</postalcode>
+      <country>MX</country>
+    </contactAddress>
+    <name></name>
+    <organization>Direcci n General de Geograf a, INEGI</organization>
+    <position>Administrador de Metadatos Geogr ficos</position>
+    <voice>52 449 910 53 00 ext 5856</voice>
+    <fax></fax>
+    <email>rarrioja@dgg.inegi.gob.mx</email>
+    <role>Point of contact</role>
+  </contact>
+  <contact>
+    <contactAddress>
+      <type>Mailing address</type>
+      <address>Room 650-615 Booth Street</address>
+      <city>Ottawa</city>
+      <administrativearea>Ontario</administrativearea>
+      <postalcode>K1A 0E9</postalcode>
+      <country>Canada</country>
+    </contactAddress>
+    <name>&#xd;
+Government of Canada, Natural Resources Canada, Canada Centre for&#xd;
+Remote Sensing, The Atlas of Canada&#xd;
+</name>
+    <organization>&#xd;
+Government of Canada, Natural Resources Canada, Canada Centre for&#xd;
+Remote Sensing, The Atlas of Canada&#xd;
+</organization>
+    <position></position>
+    <voice></voice>
+    <fax>+01 613 947 2410</fax>
+    <email>info@atlas.gc.ca</email>
+    <role>Point of contact</role>
+  </contact>
+  <links/>
+  <history>Data source: Spatial information</history>
+  <history>Data source: Spatial and attribute information</history>
+  <history>Data source: Spatial and attribute information</history>
+  <history>Data source: Spatial and attribute information</history>
+  <dates>
+    <date value="2004-06-01T00:00:00" type="Published"/>
+  </dates>
+  <fees></fees>
+  <constraints type="Access">None</constraints>
+  <rights>National Atlas of the United States. (2004). North American Atlas - Bathymetry (Polygons). National Atlas of the United States. Available at: http://purl.stanford.edu/pf025xf0532.</rights>
+  <rights>All data for Canada and other areas outside of Mexico and the United States of America are covered by the Geogratis User Agreement for Digital Data; see http://geogratis.cgdi.gc.ca/e_license.html. No use constraints are applied to data for Mexico and the United States of America. Acknowledgment of the North American Atlas, Instituto Nacional de Estad stica Geograf a e Inform tica, Natural Resources Canada, and (or) the U.S. Geological Survey would be appreciated in products derived from these data. </rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
+      <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+      <srsid>3452</srsid>
+      <srid>4326</srid>
+      <authid>EPSG:4326</authid>
+      <description>WGS 84</description>
+      <projectionacronym>longlat</projectionacronym>
+      <ellipsoidacronym>EPSG:7030</ellipsoidacronym>
+      <geographicflag>true</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial maxz="0" minx="-179.99999299999998925" miny="-4.94415199999999988" dimensions="2" crs="EPSG:4326" minz="0" maxy="89.99917299999999898" maxx="3.27391800000000011"/>
+    <temporal>
+      <period>
+        <start>2004-06-01T04:00:00Z</start>
+        <end></end>
+      </period>
+    </temporal>
+    <temporal>
+      <period>
+        <start></start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>

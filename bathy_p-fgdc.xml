@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin/>
+        <origin/>
+        <origin/>
+        <pubdate>20040601</pubdate>
+        <title>North American Atlas - Bathymetry (Polygons)</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace/>
+          <publish>Canada Centre for Mapping</publish>
+        </pubinfo>
+        <pubinfo>
+          <pubplace/>
+          <publish>Instituto Nacional de Estadística, Geografía e Informática (Mexico)</publish>
+        </pubinfo>
+        <pubinfo>
+          <pubplace/>
+          <publish>Geological Survey (U.S.)</publish>
+        </pubinfo>
+        <othercit>These data were downloaded from the National Atlas website (http://www.nationalatlas.gov/atlasftp.html) in August 2014.</othercit>
+        <onlink>http://purl.stanford.edu/pf025xf0532</onlink>
+        <lworkcit>
+          <citeinfo>
+            <pubdate>19980101</pubdate>
+            <title>National Atlas of the United States of America, 1997-2014</title>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This polygon shapefile contains bathymetric data with depth in metres for ocean areas covered by the extent of the North American Atlas project. Isobaths (lines of equal depth) are provided for sea level (coastline, with depth = 1), 200, 500, and 2500 metres. Polygons bounded by these isobaths represent depth ranges of 0-200, 200-500, 500-2500, and greater than 2500 metres. This layer is part of the 1997-2014 edition National Atlas of the United States.</abstract>
+      <purpose>The North American Atlas data are intended for geographic display and analysis at the national and continental level. These data should be displayed and analyzed at scales appropriate for 1:10,000,000-scale data. No responsibility is assumed by Natural Resources Canada, Instituto Nacional de Estad stica Geograf a e Inform tica, or the U.S. Geological Survey in the use of these data.</purpose>
+      <supplinf>The Commission for Environmental Cooperation (CEC) is an international organization created by Canada, Mexico, and the United States of America under the North American Agreement on Environmental Cooperation (NAAEC). The CEC was established to address regional environmental concerns, help prevent potential trade and environmental conflicts, and to promote the effective enforcement of environmental law. The Agreement complements the environmental provisions of the North American Free Trade Agreement (NAFTA). Further information on the CEC is available from http://www.cec.org/ or from &gt;Commission for Environmental Cooperation &gt;393, rue St-Jacques Ouest &gt;Bureau 200 &gt;Montr al (Qu bec) &gt;H2Y 1N9 Canada &gt; &gt;Telephone: 514 350 4300 &gt;Facsimile: 514 350 4314 &gt;Electronic mail: info@ccemtl.org &gt; All North American Atlas data sets are available in four data formats: Arc/INFO Export format (e00), ArcView Shapefile, Geography Markup Language (GML) and Spatial Data Transfer Standard (SDTS). Although these data are distributed in geographic coordinates, the North American Atlas Map uses a Lambert Azimuthal Equal Area projection. The following parameters were used for the map: &gt;Longitude_of_Projection_Center: -100.00 &gt;Latitude_of_Projection_Center: 45.00 &gt;False_Easting (metres): 0.0 &gt;False_Northing (metres): 0.0 &gt;Semi-major_Axis: 6370997.0 &gt;Denominator_of_Flattening_Ratio: 1.0 &gt;Ellipsoid_Name: Sphere &gt;Units: metres</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20040601</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Irregular</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.999993</westbc>
+        <eastbc>3.273918</eastbc>
+        <northbc>89.999173</northbc>
+        <southbc>-4.944152</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>lcsh</themekt>
+        <themekey>Bathymetric maps</themekey>
+        <themekey>Contours (Cartography)</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>elevation</themekey>
+        <themekey>oceans</themekey>
+      </theme>
+      <place>
+        <placekt>geonames</placekt>
+        <placekey>United States</placekey>
+        <placekey>Alaska</placekey>
+        <placekey>Alabama</placekey>
+        <placekey>Arizona</placekey>
+        <placekey>Arkansas</placekey>
+        <placekey>Colorado</placekey>
+        <placekey>Connecticut</placekey>
+        <placekey>Delaware</placekey>
+        <placekey>Florida</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Hawaii</placekey>
+        <placekey>Idaho</placekey>
+        <placekey>Illinois</placekey>
+        <placekey>Indiana</placekey>
+        <placekey>Iowa</placekey>
+        <placekey>Kansas</placekey>
+        <placekey>Kentucky</placekey>
+        <placekey>Louisiana</placekey>
+        <placekey>Maine</placekey>
+        <placekey>Maryland</placekey>
+        <placekey>Massachusetts</placekey>
+        <placekey>Michigan</placekey>
+        <placekey>Minnesota</placekey>
+        <placekey>Mississippi</placekey>
+        <placekey>Missouri</placekey>
+        <placekey>Montana</placekey>
+        <placekey>Nebraska</placekey>
+        <placekey>Nevada</placekey>
+        <placekey>New Hampshire</placekey>
+        <placekey>New Jersey</placekey>
+        <placekey>New Mexico</placekey>
+        <placekey>New York (State)</placekey>
+        <placekey>North Carolina</placekey>
+        <placekey>North Dakota</placekey>
+        <placekey>Ohio</placekey>
+        <placekey>Oklahoma</placekey>
+        <placekey>Oregon</placekey>
+        <placekey>Pennsylvania</placekey>
+        <placekey>Rhode Island</placekey>
+        <placekey>South Carolina</placekey>
+        <placekey>South Dakota</placekey>
+        <placekey>Tennessee</placekey>
+        <placekey>Texas</placekey>
+        <placekey>Utah</placekey>
+        <placekey>Vermont</placekey>
+        <placekey>Virginia</placekey>
+        <placekey>Washington (D.C.)</placekey>
+        <placekey>Washington (State)</placekey>
+        <placekey>West Virginia</placekey>
+        <placekey>Wisconsin</placekey>
+        <placekey>Wyoming</placekey>
+        <placekey>Puerto Rico</placekey>
+        <placekey>United States Virgin Islands</placekey>
+        <placekey>North America</placekey>
+        <placekey>Mexico</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2004</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>This item is in the public domain.</accconst>
+    <useconst>Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Government of Canada, Natural Resources Canada, Canada Centre for Remote Sensing, The Atlas of Canada</cntorg>
+        </cntorgp>
+        <cntpos>Atlas of Canada Client Services</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>Room 650-615 Booth Street</address>
+          <city>Ottawa</city>
+          <state>Ontario</state>
+          <postal>K1A 0E9</postal>
+          <country>CA</country>
+        </cntaddr>
+        <cntfax>+01 613 947 2410</cntfax>
+        <cntemail>info@atlas.gc.ca</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey</cntorg>
+          <cntper>John Hutchinson</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>USGS EROS Data Center</address>
+          <city>Sioux Falls</city>
+          <state>South Dakota</state>
+          <postal>57198-0001</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>605 594 6049</cntvoice>
+        <cntfax>605 594 6529</cntfax>
+        <cntemail>atlasmail@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Direcci n General de Geograf a, INEGI</cntorg>
+          <cntper>Jorge Padilla Noriega</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>Av Heroe de Nacozari Sur 2301</address>
+          <address>Fracc Jardines del Parque</address>
+          <city>Aguascalientes</city>
+          <state>Aguascalientes</state>
+          <postal>20270</postal>
+          <country>MX</country>
+        </cntaddr>
+        <cntvoice>52 449 910 5349</cntvoice>
+        <cntemail>jorge.padilla@inegi.gob.mx</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National Atlas of the United States. (2004). North American Atlas - Bathymetry (Polygons). National Atlas of the United States. Available at: http://purl.stanford.edu/pf025xf0532.</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1.4959</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Where possible, attribute data were quality controlled by creating symbolized digital displays or hard copy plots, which were visually verified with digital or hard copy reference data. Attribute data that could not be verified in such a manner were interactively queried to check for anomalies such as duplication of data in fields requiring unique values and incorrect feature coding. Data for areas outside of Canada, Mexico, and the United States of America are only provided for context; Natural Resources Canada, Instituto Nacional de Estad stica Geograf a e Inform tica, and the U.S. Geological Survey assume no responsibility for the completeness, accuracy, or presentation of this data.</attraccr>
+    </attracc>
+    <logic>Topology was built and a quality control of the bathymetry polygon data was done in order to ensure topological polygon structure.</logic>
+    <complete>This data set includes bathymetry data for all of the ocean areas within the extents covered by the North American Atlas project, as shown at 1:10,000,000 scale. The data completeness reflects the content of the source data, the integration done by the cartographers, and the quality control of the content performed by each country.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Positional accuracy of the data is unknown. Positions are dependent on the accuracy of the source data and on the result of the integration process. Data for areas outside of Canada, Mexico, and the United States of America are only provided for context; Natural Resources Canada, Instituto Nacional de Estad stica Geograf a e Inform tica, and the U.S. Geological Survey assume no responsibility for the completeness, accuracy, or presentation of this data.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin/>
+            <origin/>
+            <origin/>
+            <pubdate>20040601</pubdate>
+            <title>North American Atlas Hydrography</title>
+            <geoform>Vector digital data</geoform>
+            <pubinfo>
+              <pubplace/>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <pubinfo>
+              <pubplace/>
+              <publish>Government of Canada, Natural Resources Canada, Canada Centre for Remote Sensing, The Atlas of Canada</publish>
+            </pubinfo>
+            <pubinfo>
+              <pubplace/>
+              <publish>Instituto Nacional de Estad stica, Geograf a e Inform tica (INEGI)</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>0</srcscale>
+        <typesrc>onLine</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20040101</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Publication date</srccurr>
+        </srctime>
+        <srccitea>NAA Hydro</srccitea>
+        <srccontr>Spatial information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin/>
+            <origin/>
+            <origin/>
+            <pubdate>20030101</pubdate>
+            <title>Centenary Edition of the GEBCO Digital Atlas</title>
+            <geoform>Vector digital data</geoform>
+            <pubinfo>
+              <pubplace/>
+              <publish>British Oceanographic Data Centre, Natural Environment Research Council</publish>
+            </pubinfo>
+            <othercit>Published as part of the General Bathymetric Chart of the Oceans (GEBCO); see http://www.ngdc.noaa.gov/mgg/gebco/gebco.html for more information.</othercit>
+          </citeinfo>
+        </srccite>
+        <srcscale>0</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20030101</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Publication date</srccurr>
+        </srctime>
+        <srccitea>GEBCO</srccitea>
+        <srccontr>Spatial and attribute information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin/>
+            <pubdate>20000101</pubdate>
+            <title>North America, National Atlas of Canada Base Map Series</title>
+            <pubinfo>
+              <pubplace/>
+              <publish>Government of Canada, Natural Resources Canada, Canada Centre for Remote Sensing, The Atlas of Canada</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>0</srcscale>
+        <typesrc>onLine</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20000101</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Ground condition</srccurr>
+        </srctime>
+        <srccitea>North America Base 2000</srccitea>
+        <srccontr>Spatial and attribute information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin/>
+            <pubdate>19950101</pubdate>
+            <title>North America, National Atlas of Canada Base Map Series</title>
+            <geoform>Vector digital data</geoform>
+            <pubinfo>
+              <pubplace/>
+              <publish>Government of Canada, Natural Resources Canada, Canada Centre for Remote Sensing, The Atlas of Canada</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>0</srcscale>
+        <typesrc>onLine</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19950101</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>Ground condition</srccurr>
+        </srctime>
+        <srccitea>North America Base 1995</srccitea>
+        <srccontr>Spatial and attribute information</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Bathymetry linework from the 2000 Atlas of Canada North America base map was reprojected and fitted to the coastline of the 1:10,000,000 North American Atlas - Hydrography. Cartographers at The Atlas of Canada did the integration of the data, maintaining a cartographic representation suitable for 1:10,000,000 scale. Much of the bathymetry in the Caribbean was updated using both vector and raster data from the GEBCO Digital Atlas. Polygon topology was created so the bathymetry could be shown as area fills and could be used for cartographic representation. Depth attributes were then added to the lines. Depth values of adjoining polygons were checked to ensure there were no discontinuities (e.g. that polygons with depth 0-200 did not border on polygons with depth 500-2500). Then a visual check of the data on a paper plot was done, and finally that plot was compared with bathymetry on the 1995 Atlas of Canada North American base map. Each country performed quality control of the final data representation.</procdesc>
+        <srcused>North America Base 2000</srcused>
+        <srcused>NAA Hydro</srcused>
+        <srcused>North America Base 1995</srcused>
+        <srcused>GEBCO</srcused>
+        <procdate>20040101</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>2781</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>bathy_pX</enttypl>
+        <enttypd>A line showing sea level or the depth below sea level, in metres.</enttypd>
+        <enttypds>North American Atlas GIS Group</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BATHY_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>UIDENT</attrlabl>
+        <attrdef>
+The unique identifier.  A unique number that is assigned to each feature
+in the North American Atlas data.  The last two digits of the identifier
+are a suffix indicating the map layer.
+</attrdef>
+        <attrdefs>North American Atlas GIS Group</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>108</rdommin>
+            <rdommax>343408</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Depth</attrlabl>
+        <attrdef>The depth represented by the line.</attrdef>
+        <attrdefs>North American Atlas GIS Group</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>The line represents the coastline (sea level).</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>200</edomv>
+            <edomvd>The line represents a depth of 200 metres below sea level.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>500</edomv>
+            <edomvd>The line represents a depth of 500 metres below sea level.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>2500</edomv>
+            <edomvd>The line represents a depth of 2500 metres below sea level.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>1000</edomv>
+            <edomvd>The line represents a map extent rather than a depth.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>RANGE</attrlabl>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Bathymetric area</enttypl>
+        <enttypd>An area showing a common range of depths below sea level, in metres.</enttypd>
+        <enttypds>North American Atlas GIS Group</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>UIDENT</attrlabl>
+        <attrdef>
+The unique identifier.  A unique number that is assigned to each feature
+in the North American Atlas data.  The last two digits of the identifier
+are a suffix indicating the map layer.
+</attrdef>
+        <attrdefs>North American Atlas GIS Group</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>109</rdommin>
+            <rdommax>290209</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Depth</attrlabl>
+        <attrdef>The depth represented by the polygon.</attrdef>
+        <attrdefs>North American Atlas GIS Group</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>1</edomv>
+            <edomvd>The area represents a depth below sea level of 0-200 metres.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>2</edomv>
+            <edomvd>The area represents a depth below sea level of 201-500 metres.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>3</edomv>
+            <edomvd>The area represents a depth below sea level of 501-2500 metres.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>4</edomv>
+            <edomvd>
+The area represents a depth below sea level of more than 2501
+metres.
+</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>15</edomv>
+            <edomvd>The area represents the landmass.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Range</attrlabl>
+        <attrdef>The range of depths represented by the polygon.</attrdef>
+        <attrdefs>North American Atlas GIS Group</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Land</edomv>
+            <edomvd>The area represents the landmass.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>0-200 metres in depth</edomv>
+            <edomvd>The area represents a depth below sea level of 0-200 metres.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>201-500 metres in depth</edomv>
+            <edomvd>The area represents a depth below sea level of 201-500 metres.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>501-2500 metres in depth</edomv>
+            <edomvd>The area represents a depth below sea level of 501-2500 metres.</edomvd>
+            <edomvds>North American Atlas GIS Group</edomvds>
+          </edom>
+          <edom>
+            <edomv>greater than 2500 metres in depth</edomv>
+            <edomvd>
+The area represents a depth below sea level of more than 2501
+metres.
+</edomvd>
+            <edomvds>
+North American Atlas GIS Group
+</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Stanford Geospatial Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>physical</addrtype>
+          <address>Branner Earth Sciences Library</address>
+          <address>Mitchell Building, 2nd Floor</address>
+          <address>397 Panama Mall</address>
+          <city>Stanford</city>
+          <state>California</state>
+          <postal>94305</postal>
+        </cntaddr>
+        <cntvoice>650-723-2746</cntvoice>
+        <cntemail>brannerlibrary@stanford.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20170104</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Direcci n General de Geograf a, INEGI</cntorg>
+        </cntorgp>
+        <cntpos>Administrador de Metadatos Geogr ficos</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>Fracc Jardines del Parque</address>
+          <address>Av Heroe de Nacozari Sur 2301</address>
+          <city>Aguascalientes</city>
+          <state>Aguascalientes</state>
+          <postal>20270</postal>
+          <country>MX</country>
+        </cntaddr>
+        <cntvoice>52 449 910 53 00 ext 5856</cntvoice>
+        <cntemail>rarrioja@dgg.inegi.gob.mx</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metsi>
+      <metscs>None</metscs>
+      <metsc>Unclassified</metsc>
+      <metshd>None</metshd>
+    </metsi>
+  </metainfo>
+</metadata>
