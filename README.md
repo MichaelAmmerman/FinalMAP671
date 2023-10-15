@@ -7,7 +7,7 @@
 
 ## Reason for Creating this Map
 
-I am an extension associate at the Universiy of Kentucky for the Dapartment of Forestry. My job requires that I travel all over the state of Kentucky. While traveling throughout the state, I have spent a lot of time in the state's largest and smallest cities. Over time I have noticed one thing that almost everytown has and that is either a Subway or McDonalds. This observation made me start to wonder what states have the most McDonalds and what trends cause this. I hypothesised that states with smaller populations would have more McDonalds for fewer people. After analysing and mapping the data I relized that my hypothesis wasa mostly correct, but it seems states within the southern us had more McDonald's.
+I am an extension associate at the University of Kentucky for the Department of Forestry. My job requires that I travel all over the state of Kentucky. While traveling throughout the state, I have spent much time in the state's largest and smallest cities. Over time I have noticed one thing that almost every town has: either a Subway or McDonalds. This observation made me wonder what states have the most McDonald's and what trends cause this. I hypothesized that states with smaller populations would have more McDonald's for fewer people. After analyzing and mapping the data, I realized that my hypothesis was mostly correct, but it seems states within the southern us had more McDonald's.
 
 ## Map Creation
 1. I downloaded the McDonald's data from Gavin Rehkemper's github repository, then I downloaded data from the Census Bureau and the University of Texas at Austin.
