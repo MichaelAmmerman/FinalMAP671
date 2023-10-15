@@ -1,9 +1,9 @@
 # McDonald's Location's in Contiguous US
 
 ## Data Source's
-    * McDonald's location data was provided by ![Gavin Rehkemper]("https://github.com/gavinr/usa-mcdonalds-locations") data accessed October 2023.
-    * State population and state's shape file was provided by ![US Census Bureau]("https://www.census.gov/en.html").
-    * North American shape file was extracted from ![The University of Texas at Austin]("https://geodata.lib.utexas.edu/?f%5Bdc_format_s%5D%5B%5D=Shapefile&f%5Bdct_spatial_sm%5D%5B%5D=North+America&f%5Blayer_geom_type_s%5D%5B%5D=Polygon&per_page=50&sort=score+desc%2C+dc_title_sort+asc").
+    * McDonald's location data was provided by [Gavin Rehkemper](https://github.com/gavinr/usa-mcdonalds-locations) data accessed October 2023.
+    * State population and state's shape file was provided by [US Census Bureau](https://www.census.gov/en.html).
+    * North American shape file was extracted from [The University of Texas at Austin](https://geodata.lib.utexas.edu/?f%5Bdc_format_s%5D%5B%5D=Shapefile&f%5Bdct_spatial_sm%5D%5B%5D=North+America&f%5Blayer_geom_type_s%5D%5B%5D=Polygon&per_page=50&sort=score+desc%2C+dc_title_sort+asc).
 
 ## Reason for Creating this Map
 
