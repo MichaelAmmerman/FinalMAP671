@@ -22,3 +22,7 @@ I am an extension associate at the Universiy of Kentucky for the Dapartment of F
 
 ## Link to Map
 [Map](https://michaelammerman.github.io/FinalMAP671/)
+
+## Projection
+
+All of the orginal data was originally projected into NAD 83, I then reprojected all layers into North_America_Albers_Equal_Area_Conic (ESRI 102008).
