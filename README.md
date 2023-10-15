@@ -21,4 +21,4 @@ I am an extension associate at the Universiy of Kentucky for the Dapartment of F
 6. I then uploaded the geojson to mapbox studio and then published it and added it to the HTML file.
 
 ## Link to Map
-[Map](index.html)
+[Map](https://michaelammerman.github.io/FinalMAP671/)
